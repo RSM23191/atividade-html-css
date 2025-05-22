@@ -1,2 +1,2 @@
-# atividade-html-css
-Atividade com HTML e CSS
+# Atividade HTML/CSS
+Nome: Ray Silva Matos
